@@ -752,9 +752,7 @@ em {
 }
 
 .footer-text {
-    align-self: center;
-    align-items: center;
-    align-content: center;
+    text-align: center;
 }
 
 .footer-copy {
