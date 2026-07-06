@@ -754,6 +754,7 @@ em {
 .footer-copy {
     font-size: 0.78rem;
     color: var(--color-muted);
+    align-items: center;
 }
 
 .footer-link {
