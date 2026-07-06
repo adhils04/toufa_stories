@@ -751,14 +751,12 @@ em {
     color: var(--color-cream);
 }
 
-.footer-text {
-    text-align: center;
-}
 
 .footer-copy {
     font-size: 0.78rem;
     color: var(--color-muted);
     align-items: center;
+    align-self: center;
 }
 
 .footer-link {
