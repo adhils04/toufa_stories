@@ -751,6 +751,12 @@ em {
     color: var(--color-cream);
 }
 
+.footer-text {
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
+
 .footer-copy {
     font-size: 0.78rem;
     color: var(--color-muted);
